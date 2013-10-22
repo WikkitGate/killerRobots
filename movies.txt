@@ -1,10 +1,3 @@
-The Matrix
 
-<<<<<<< HEAD
-Elementary OS is better than Ubuntu, just a fact Óli!!
-nei það er mikklu verra en ég kannast meira við það og finnst það þæginlegra, þ$
-fæ mér samt örugglega 12.10
 
-=======
-Elementaryy OS is better than Ubuntu, just a fact Óli!!
->>>>>>> 880d989be7c1c766d54779c83124f928ba155fb0
+Holy shit hvað 13.10 er fáranlega buggy, trúi því valla að það sé tilbúið, eitthvernveginn búðist ég við meiru frá ubuntu
